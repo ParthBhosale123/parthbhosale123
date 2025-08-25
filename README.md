@@ -11,43 +11,50 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## ⚡ Technologies & Tools  
 
-### 📊 **DSA & Problem Solving**
-- Practicing Data Structures & Algorithms (DSA) on [LeetCode](https://leetcode.com/u/Parth_Bhosale_09/), [CodeChef](https://www.codechef.com/users/bhosaleparth09) and [GeeksForGeeks](https://www.geeksforgeeks.org/user/parthb8nyn/)
-- Strong understanding of Arrays, Linked Lists, String. Learning advanced topics - Stacks, Queues, Trees, and Graphs
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-orange?logo=java)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)  
 
-### 💻 **Programming Language**
-- **Languages:** Java, JavaScript, Cpp (Basic)
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?logo=framer&logoColor=blue)  
 
-### 🌐 **Frontend**
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React.js  
-- **Styling & Animations:** Tailwind CSS, Framer Motion  
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
 
-### 🛠 **Backend (Learning)**
-- **Technologies:** Node.js(Basic), Express.js (Basic)  
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
 
-### 💾 **Database**
-- MySQL, MongoDB (Basic)  
-
-### 🚀 **Tools & Version Control**
-- Git, GitHub  
+### 🛠️ Tools & Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🎮 [Tic-Tac-Toe Game](https://github.com/parthbhosale123/tic-tac-toe)
-🟡 **Tech:** HTML, CSS, JavaScript  
-✨ **Features:** Interactive gameplay with win detection logic  
+### 🏢 [Visitor Management System (MERN)](https://github.com/ParthBhosale123/visitor-management-system)  
+🔹 Tech: **MongoDB, Express.js, React, Node.js**  
+🔹 Features: Secure visitor check-in/out, admin dashboard, real-time data management  
+---
 
 ### 💼 [Personal Portfolio](https://github.com/parthbhosale123/react-portfolio)
 🔵 **Tech:**  HTML, CSS, JavaScript, React.js, Tailwind CSS  
-📌 **Features:** Smooth animations, responsive design, projects showcase  
+📌 **Features:** Smooth animations, responsive design, projects showcase
+---
 
-### 🎵 [Spotify UI Clone](https://github.com/parthbhosale123/spotify-clone)
-🟢 **Tech:** HTML, CSS, JavaScript  
-🎼 **Features:** Play/Pause, Volume Control, Next/Prev Track    
+### 🎮 [Tic-Tac-Toe Game](https://github.com/ParthBhosale123/TicTacToe)  
+🔹 Tech: **HTML, CSS, JavaScript**  
+🔹 Features: Interactive gameplay with win detection  
 
 ---
 
