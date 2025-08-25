@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ### 🎨 Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
