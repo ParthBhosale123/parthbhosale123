@@ -49,11 +49,13 @@
 ### 🏢 [Visitor Management System (MERN)](https://github.com/ParthBhosale123/visitor-management-system)  
 🔹 Tech: **MongoDB, Express.js, React, Node.js**  
 🔹 Features: Secure visitor check-in/out, admin dashboard, real-time data management  
+
 ---
 
 ### 💼 [Personal Portfolio](https://github.com/parthbhosale123/react-portfolio)
 🔵 **Tech:**  HTML, CSS, JavaScript, React.js, Tailwind CSS  
 📌 **Features:** Smooth animations, responsive design, projects showcase
+
 ---
 
 ### 🎮 [Tic-Tac-Toe Game](https://github.com/ParthBhosale123/TicTacToe)  
@@ -62,9 +64,18 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthBhosale123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhosale123&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=ParthBhosale123&theme=radical)  
+
+---
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parthbhosale09/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/parthbhosale123)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://parthbhosale-react-portfolio.vercel.app/)  
+📩 **Email:** parthb00009@gmail.com  
 
 🔹 **Check out my work and feel free to connect! 🚀**
