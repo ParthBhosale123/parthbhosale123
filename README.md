@@ -68,7 +68,6 @@
 
 ![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthBhosale123&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhosale123&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParthBhosale123&theme=radical&hide_border=true)
 
 ---
 
