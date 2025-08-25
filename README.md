@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Parth Bhosale
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&width=600&lines=Frontend+Developer+|+Problem+Solver;Aspiring+Full-Stack+Engineer;Passionate+about+DSA+%26+Web+Development)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&width=600&lines=Software+Developer+|+Problem+Solver;Aspiring+Full-Stack+Engineer;Passionate+about+DSA+%26+Web+Applications)
 
 ## 👨‍💻 About Me  
 
