@@ -1,11 +1,15 @@
 ## 👋 Hi there! I'm Parth Bhosale
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&width=600&lines=Frontend+Developer+|+Problem+Solver;Aspiring+Full-Stack+Engineer;Passionate+about+DSA+%26+Web+Development)
 
-## 🚀 About Me
-🔹 **Frontend Developer | Aspiring Full-Stack Developer | Problem Solver**  
-🔹 Passionate about crafting user-friendly web applications.  
-🔹 Currently learning backend development with Node.js, Express.js.  
-🔹 Enthusiastic about **Data Structures & Algorithms (DSA)** and problem-solving on coding platforms.
+## 👨‍💻 About Me  
+
+- 🚀 **Aspiring Full-Stack Developer** (Frontend + Backend)  
+- 💻 Skilled in **React, TailwindCSS, Node.js, Spring Boot, and MySQL**  
+- 🔍 Strong foundation in **Data Structures & Algorithms (DSA)** – practicing on [LeetCode](https://leetcode.com), [CodeChef](https://www.codechef.com/), and [GeeksforGeeks](https://www.geeksforgeeks.org/).  
+- 🌱 Currently working on **E-commerce & Academy Management Systems**  
+- 🤝 Open to **collaborations, internships, and open-source contributions**  
+
+---
 
 ## 🔧 Technologies & Tools
 
