@@ -5,8 +5,7 @@
 
 - 🚀 **Aspiring Full-Stack Developer** (Frontend + Backend)  
 - 💻 Skilled in **React, TailwindCSS, Node.js, Spring Boot, and MySQL**  
-- 🔍 Strong foundation in **Data Structures & Algorithms (DSA)** – practicing on [LeetCode](https://leetcode.com), [CodeChef](https://www.codechef.com/), and [GeeksforGeeks](https://www.geeksforgeeks.org/).  
-- 🌱 Currently working on **E-commerce & Academy Management Systems**  
+- 🔍 Strong foundation in **Data Structures & Algorithms (DSA)** – practicing on [LeetCode](https://leetcode.com), [CodeChef](https://www.codechef.com/), and [GeeksforGeeks](https://www.geeksforgeeks.org/).
 - 🤝 Open to **collaborations, internships, and open-source contributions**  
 
 ---
